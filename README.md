@@ -7,5 +7,5 @@ A web-based tool to compute the Ease of Living Index (EoI) for cities/localities
 **Database:** MongoDB
 **Machine Learning:** Python for predictive analytics
 **Data Sources:** Open datasets for transportation, healthcare, and housing metrics
-## PDF File:
+## Source Code:
 project.py
