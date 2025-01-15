@@ -1,7 +1,7 @@
-##Overview
+## Overview
 A web-based tool to compute the Ease of Living Index (EoI) for cities/localities using parameters like transportation efficiency, air quality, safety, education, healthcare, and housing affordability. The platform allows users to compare locations, analyze parameter breakdowns, and leverage predictive analytics for future trends.
 
-##Technology Stack
+## Technology Stack
 **Frontend:** React.js, D3.js
 **Backend :** Node.js, Express.js
 **Database:** MongoDB
